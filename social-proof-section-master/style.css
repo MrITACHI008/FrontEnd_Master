@@ -38,16 +38,9 @@ body {
     transition: ease-in-out 0.3s;
   }
   
-  h1:hover {
-    color: hsla(333, 80%, 67%, 1);
-    transition: ease-in-out 0.3s;
-  }
   
-  h2 {
-    font-size: 13px;
-    font-weight: 700;
-    color: hsla(300, 43%, 22%, 1);
-  }
+  
+  
   
   .heading p {
     font-weight: 400;
@@ -78,8 +71,8 @@ body {
   
   .rating__review {
     display: flex;
-    gap: 36px;
-    width: 28.125rem;
+    gap: 34px;
+    width: 30rem;
     align-items: center;
     padding: 1.25rem 2rem;
     color: hsla(300, 43%, 22%, 1);
@@ -153,7 +146,7 @@ body {
     transform: translatey(-20px);
     transition: ease-in-out 0.3s;
     filter: brightness(1.3);
-    background-color: rgb(122, 8, 57);
+    background-color: rgb(87, 25, 87);
   }
   
   .profile__info {
@@ -175,7 +168,7 @@ body {
   }
   
   .card__user p {
-    font-weight: 200;
+    font-weight: 400;
     font-size: 13px;
     line-height: 1.6;
     letter-spacing: -0.232143px;
